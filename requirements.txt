@@ -1,0 +1,7 @@
+# Совместимо с Python 3.9+
+streamlit>=1.35,<1.41
+pandas>=2.0,<2.3
+plotly>=5.20,<6
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+playwright>=1.45,<2
